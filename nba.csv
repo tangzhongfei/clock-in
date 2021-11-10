@@ -1,0 +1,458 @@
+Name,Team,Number,Position,Age,Height,Weight,College,Salary,clock in
+Avery Bradley,Boston Celtics,0,PG,25,6月2日,180,Texas,7730337,no
+Jae Crowder,Boston Celtics,99,SF,25,6月6日,235,Marquette,6796117,yes
+John Holland,Boston Celtics,30,SG,27,6月5日,205,Boston University,,no
+R.J. Hunter,Boston Celtics,28,SG,22,6月5日,185,Georgia State,1148640,yes
+Jonas Jerebko,Boston Celtics,8,PF,29,6月10日,231,,5000000,yes
+Amir Johnson,Boston Celtics,90,PF,29,6月9日,240,,12000000,yes
+Jordan Mickey,Boston Celtics,55,PF,21,6月8日,235,LSU,1170960,no
+Kelly Olynyk,Boston Celtics,41,C,25,7-0,238,Gonzaga,2165160,yes
+Terry Rozier,Boston Celtics,12,PG,22,6月2日,190,Louisville,1824360,yes
+Marcus Smart,Boston Celtics,36,PG,22,6月4日,220,Oklahoma State,3431040,yes
+Jared Sullinger,Boston Celtics,7,C,24,6月9日,260,Ohio State,2569260,yes
+Isaiah Thomas,Boston Celtics,4,PG,27,5月9日,185,Washington,6912869,yes
+Evan Turner,Boston Celtics,11,SG,27,6月7日,220,Ohio State,3425510,yes
+James Young,Boston Celtics,13,SG,20,6月6日,215,Kentucky,1749840,yes
+Tyler Zeller,Boston Celtics,44,C,26,7-0,253,North Carolina,2616975,yes
+Bojan Bogdanovic,Brooklyn Nets,44,SG,27,6月8日,216,,3425510,yes
+Markel Brown,Brooklyn Nets,22,SG,24,6月3日,190,Oklahoma State,845059,no
+Wayne Ellington,Brooklyn Nets,21,SG,28,6月4日,200,North Carolina,1500000,yes
+Rondae Hollis-Jefferson,Brooklyn Nets,24,SG,21,6月7日,220,Arizona,1335480,yes
+Jarrett Jack,Brooklyn Nets,2,PG,32,6月3日,200,Georgia Tech,6300000,yes
+Sergey Karasev,Brooklyn Nets,10,SG,22,6月7日,208,,1599840,no
+Sean Kilpatrick,Brooklyn Nets,6,SG,26,6月4日,219,Cincinnati,134215,yes
+Shane Larkin,Brooklyn Nets,0,PG,23,5月11日,175,Miami (FL),1500000,yes
+Brook Lopez,Brooklyn Nets,11,C,28,7-0,275,Stanford,19689000,yes
+Chris McCullough,Brooklyn Nets,1,PF,21,6月11日,200,Syracuse,1140240,yes
+Willie Reed,Brooklyn Nets,33,PF,26,6月10日,220,Saint Louis,947276,yes
+Thomas Robinson,Brooklyn Nets,41,PF,25,6月10日,237,Kansas,981348,yes
+Henry Sims,Brooklyn Nets,14,C,26,6月10日,248,Georgetown,947276,yes
+Donald Sloan,Brooklyn Nets,15,PG,28,6月3日,205,Texas A&M,947276,yes
+Thaddeus Young,Brooklyn Nets,30,PF,27,6月8日,221,Georgia Tech,11235955,yes
+Arron Afflalo,New York Knicks,4,SG,30,6月5日,210,UCLA,8000000,yes
+Lou Amundson,New York Knicks,17,PF,33,6月9日,220,UNLV,1635476,yes
+Thanasis Antetokounmpo,New York Knicks,43,SF,23,6月7日,205,,30888,yes
+Carmelo Anthony,New York Knicks,7,SF,32,6月8日,240,Syracuse,22875000,yes
+Jose Calderon,New York Knicks,3,PG,34,6月3日,200,,7402812,yes
+Cleanthony Early,New York Knicks,11,SF,25,6月8日,210,Wichita State,845059,yes
+Langston Galloway,New York Knicks,2,SG,24,6月2日,200,Saint Joseph's,845059,yes
+Jerian Grant,New York Knicks,13,PG,23,6月4日,195,Notre Dame,1572360,yes
+Robin Lopez,New York Knicks,8,C,28,7-0,255,Stanford,12650000,yes
+Kyle O'Quinn,New York Knicks,9,PF,26,6月10日,250,Norfolk State,3750000,yes
+Kristaps Porzingis,New York Knicks,6,PF,20,7月3日,240,,4131720,no
+Kevin Seraphin,New York Knicks,1,C,26,6月10日,278,,2814000,yes
+Lance Thomas,New York Knicks,42,SF,28,6月8日,235,Duke,1636842,yes
+Sasha Vujacic,New York Knicks,18,SG,32,6月7日,195,,947276,yes
+Derrick Williams,New York Knicks,23,PF,25,6月8日,240,Arizona,4000000,yes
+Tony Wroten,New York Knicks,5,SG,23,6月6日,205,Washington,167406,yes
+Elton Brand,Philadelphia 76ers,42,PF,37,6月9日,254,Duke,,yes
+Isaiah Canaan,Philadelphia 76ers,0,PG,25,6-0,201,Murray State,947276,yes
+Robert Covington,Philadelphia 76ers,33,SF,25,6月9日,215,Tennessee State,1000000,yes
+Joel Embiid,Philadelphia 76ers,21,C,22,7-0,250,Kansas,4626960,yes
+Jerami Grant,Philadelphia 76ers,39,SF,22,6月8日,210,Syracuse,845059,yes
+Richaun Holmes,Philadelphia 76ers,22,PF,22,6月10日,245,Bowling Green,1074169,yes
+Carl Landry,Philadelphia 76ers,7,PF,32,6月9日,248,Purdue,6500000,yes
+Kendall Marshall,Philadelphia 76ers,5,PG,24,6月4日,200,North Carolina,2144772,yes
+T.J. McConnell,Philadelphia 76ers,12,PG,24,6月2日,200,Arizona,525093,yes
+Nerlens Noel,Philadelphia 76ers,4,PF,22,6月11日,228,Kentucky,3457800,yes
+Jahlil Okafor,Philadelphia 76ers,8,C,20,6月11日,275,Duke,4582680,yes
+Ish Smith,Philadelphia 76ers,1,PG,27,6-0,175,Wake Forest,947276,yes
+Nik Stauskas,Philadelphia 76ers,11,SG,22,6月6日,205,Michigan,2869440,yes
+Hollis Thompson,Philadelphia 76ers,31,SG,25,6月8日,206,Georgetown,947276,yes
+Christian Wood,Philadelphia 76ers,35,PF,20,6月11日,220,UNLV,525093,yes
+Bismack Biyombo,Toronto Raptors,8,C,23,6月9日,245,,2814000,yes
+Bruno Caboclo,Toronto Raptors,20,SF,20,6月9日,205,,1524000,yes
+DeMarre Carroll,Toronto Raptors,5,SF,29,6月8日,212,Missouri,13600000,yes
+DeMar DeRozan,Toronto Raptors,10,SG,26,6月7日,220,USC,10050000,yes
+James Johnson,Toronto Raptors,3,PF,29,6月9日,250,Wake Forest,2500000,yes
+Cory Joseph,Toronto Raptors,6,PG,24,6月3日,190,Texas,7000000,yes
+Kyle Lowry,Toronto Raptors,7,PG,30,6-0,205,Villanova,12000000,yes
+Lucas Nogueira,Toronto Raptors,92,C,23,7-0,220,,1842000,yes
+Patrick Patterson,Toronto Raptors,54,PF,27,6月9日,235,Kentucky,6268675,yes
+Norman Powell,Toronto Raptors,24,SG,23,6月4日,215,UCLA,650000,yes
+Terrence Ross,Toronto Raptors,31,SF,25,6月7日,195,Washington,3553917,yes
+Luis Scola,Toronto Raptors,4,PF,36,6月9日,240,,2900000,yes
+Jason Thompson,Toronto Raptors,1,PF,29,6月11日,250,Rider,245177,no
+Jonas Valanciunas,Toronto Raptors,17,C,24,7-0,255,,4660482,yes
+Delon Wright,Toronto Raptors,55,PG,24,6月5日,190,Utah,1509360,yes
+Leandro Barbosa,Golden State Warriors,19,SG,33,6月3日,194,,2500000,yes
+Harrison Barnes,Golden State Warriors,40,SF,24,6月8日,225,North Carolina,3873398,yes
+Andrew Bogut,Golden State Warriors,12,C,31,7-0,260,Utah,13800000,yes
+Ian Clark,Golden State Warriors,21,SG,25,6月3日,175,Belmont,947276,yes
+Stephen Curry,Golden State Warriors,30,PG,28,6月3日,190,Davidson,11370786,yes
+Festus Ezeli,Golden State Warriors,31,C,26,6月11日,265,Vanderbilt,2008748,yes
+Draymond Green,Golden State Warriors,23,PF,26,6月7日,230,Michigan State,14260870,yes
+Andre Iguodala,Golden State Warriors,9,SF,32,6月6日,215,Arizona,11710456,yes
+Shaun Livingston,Golden State Warriors,34,PG,30,6月7日,192,,5543725,yes
+Kevon Looney,Golden State Warriors,36,SF,20,6月9日,220,UCLA,1131960,yes
+James Michael McAdoo,Golden State Warriors,20,SF,23,6月9日,240,North Carolina,845059,yes
+Brandon Rush,Golden State Warriors,4,SF,30,6月6日,220,Kansas,1270964,yes
+Marreese Speights,Golden State Warriors,5,C,28,6月10日,255,Florida,3815000,yes
+Klay Thompson,Golden State Warriors,11,SG,26,6月7日,215,Washington State,15501000,yes
+Anderson Varejao,Golden State Warriors,18,PF,33,6月11日,273,,289755,yes
+Cole Aldrich,Los Angeles Clippers,45,C,27,6月11日,250,Kansas,1100602,yes
+Jeff Ayres,Los Angeles Clippers,19,PF,29,6月9日,250,Arizona State,111444,yes
+Jamal Crawford,Los Angeles Clippers,11,SG,36,6月5日,195,Michigan,5675000,yes
+Branden Dawson,Los Angeles Clippers,22,SF,23,6月6日,225,Michigan State,525093,yes
+Jeff Green,Los Angeles Clippers,8,SF,29,6月9日,235,Georgetown,9650000,yes
+Blake Griffin,Los Angeles Clippers,32,PF,27,6月10日,251,Oklahoma,18907726,yes
+Wesley Johnson,Los Angeles Clippers,33,SF,28,6月7日,215,Syracuse,1100602,yes
+DeAndre Jordan,Los Angeles Clippers,6,C,27,6月11日,265,Texas A&M,19689000,yes
+Luc Richard Mbah a Moute,Los Angeles Clippers,12,PF,29,6月8日,230,UCLA,947276,yes
+Chris Paul,Los Angeles Clippers,3,PG,31,6-0,175,Wake Forest,21468695,yes
+Paul Pierce,Los Angeles Clippers,34,SF,38,6月7日,235,Kansas,3376000,yes
+Pablo Prigioni,Los Angeles Clippers,9,PG,39,6月3日,185,,947726,yes
+JJ Redick,Los Angeles Clippers,4,SG,31,6月4日,190,Duke,7085000,yes
+Austin Rivers,Los Angeles Clippers,25,PG,23,6月4日,200,Duke,3110796,yes
+C.J. Wilcox,Los Angeles Clippers,30,SG,25,6月5日,195,Washington,1159680,yes
+Brandon Bass,Los Angeles Lakers,2,PF,31,6月8日,250,LSU,3000000,yes
+Tarik Black,Los Angeles Lakers,28,C,24,6月9日,250,Kansas,845059,yes
+Anthony Brown,Los Angeles Lakers,3,SF,23,6月7日,210,Stanford,700000,yes
+Kobe Bryant,Los Angeles Lakers,24,SF,37,6月6日,212,,25000000,yes
+Jordan Clarkson,Los Angeles Lakers,6,PG,24,6月5日,194,Missouri,845059,yes
+Roy Hibbert,Los Angeles Lakers,17,C,29,7月2日,270,Georgetown,15592217,yes
+Marcelo Huertas,Los Angeles Lakers,9,PG,33,6月3日,200,,525093,yes
+Ryan Kelly,Los Angeles Lakers,4,PF,25,6月11日,230,Duke,1724250,yes
+Larry Nance Jr.,Los Angeles Lakers,7,PF,23,6月9日,230,Wyoming,1155600,yes
+Julius Randle,Los Angeles Lakers,30,PF,21,6月9日,250,Kentucky,3132240,yes
+D'Angelo Russell,Los Angeles Lakers,1,PG,20,6月5日,195,Ohio State,5103120,yes
+Robert Sacre,Los Angeles Lakers,50,C,27,7-0,270,Gonzaga,981348,yes
+Louis Williams,Los Angeles Lakers,23,SG,29,6月1日,175,,7000000,yes
+Metta World Peace,Los Angeles Lakers,37,SF,36,6月7日,260,St. John's,947276,yes
+Nick Young,Los Angeles Lakers,0,SF,31,6月7日,210,USC,5219169,yes
+Eric Bledsoe,Phoenix Suns,2,PG,26,6月1日,190,Kentucky,13500000,yes
+Devin Booker,Phoenix Suns,1,SG,19,6月6日,206,Kentucky,2127840,yes
+Chase Budinger,Phoenix Suns,10,SF,28,6月7日,209,Arizona,206192,yes
+Tyson Chandler,Phoenix Suns,4,C,33,7月1日,240,,13000000,yes
+Archie Goodwin,Phoenix Suns,20,SG,21,6月5日,200,Kentucky,1160160,yes
+John Jenkins,Phoenix Suns,23,SG,25,6月4日,215,Vanderbilt,981348,yes
+Brandon Knight,Phoenix Suns,3,PG,24,6月3日,189,Kentucky,13500000,yes
+Alex Len,Phoenix Suns,21,C,22,7月1日,260,Maryland,3807120,yes
+Jon Leuer,Phoenix Suns,30,PF,27,6月10日,228,Wisconsin,1035000,yes
+Phil Pressey,Phoenix Suns,25,PG,25,5月11日,175,Missouri,55722,yes
+Ronnie Price,Phoenix Suns,14,PG,32,6月2日,190,Utah Valley,947276,yes
+Mirza Teletovic,Phoenix Suns,35,PF,30,6月9日,242,,5500000,yes
+P.J. Tucker,Phoenix Suns,17,SF,31,6月6日,245,Texas,5500000,yes
+T.J. Warren,Phoenix Suns,12,SF,22,6月8日,230,North Carolina State,2041080,yes
+Alan Williams,Phoenix Suns,15,C,23,6月8日,260,UC Santa Barbara,83397,yes
+Quincy Acy,Sacramento Kings,13,SF,25,6月7日,240,Baylor,981348,yes
+James Anderson,Sacramento Kings,5,SG,27,6月6日,213,Oklahoma State,1015421,yes
+Marco Belinelli,Sacramento Kings,3,SG,30,6月5日,210,,6060606,yes
+Caron Butler,Sacramento Kings,31,SF,36,6月7日,228,Connecticut,1449187,yes
+Omri Casspi,Sacramento Kings,18,SF,27,6月9日,225,,2836186,yes
+Willie Cauley-Stein,Sacramento Kings,0,C,22,7-0,240,Kentucky,3398280,yes
+Darren Collison,Sacramento Kings,7,PG,28,6-0,175,UCLA,5013559,yes
+DeMarcus Cousins,Sacramento Kings,15,C,25,6月11日,270,Kentucky,15851950,yes
+Seth Curry,Sacramento Kings,30,SG,25,6月2日,185,Duke,947276,yes
+Duje Dukan,Sacramento Kings,26,PF,24,6月9日,220,Wisconsin,525093,yes
+Rudy Gay,Sacramento Kings,8,SF,29,6月8日,230,Connecticut,12403101,yes
+Kosta Koufos,Sacramento Kings,41,C,27,7-0,265,Ohio State,7700000,yes
+Ben McLemore,Sacramento Kings,23,SG,23,6月5日,195,Kansas,3156600,yes
+Eric Moreland,Sacramento Kings,25,PF,24,6月10日,238,Oregon State,845059,yes
+Rajon Rondo,Sacramento Kings,9,PG,30,6月1日,186,Kentucky,9500000,yes
+Cameron Bairstow,Chicago Bulls,41,PF,25,6月9日,250,New Mexico,845059,yes
+Aaron Brooks,Chicago Bulls,0,PG,31,6-0,161,Oregon,2250000,yes
+Jimmy Butler,Chicago Bulls,21,SG,26,6月7日,220,Marquette,16407500,yes
+Mike Dunleavy,Chicago Bulls,34,SG,35,6月9日,230,Duke,4500000,yes
+Cristiano Felicio,Chicago Bulls,6,PF,23,6月10日,275,,525093,yes
+Pau Gasol,Chicago Bulls,16,C,35,7-0,250,,7448760,yes
+Taj Gibson,Chicago Bulls,22,PF,30,6月9日,225,USC,8500000,yes
+Justin Holiday,Chicago Bulls,7,SG,27,6月6日,185,Washington,947276,yes
+Doug McDermott,Chicago Bulls,3,SF,24,6月8日,225,Creighton,2380440,yes
+Nikola Mirotic,Chicago Bulls,44,PF,25,6月10日,220,,5543725,yes
+E'Twaun Moore,Chicago Bulls,55,SG,27,6月4日,191,Purdue,1015421,yes
+Joakim Noah,Chicago Bulls,13,C,31,6月11日,232,Florida,13400000,yes
+Bobby Portis,Chicago Bulls,5,PF,21,6月11日,230,Arkansas,1391160,yes
+Derrick Rose,Chicago Bulls,1,PG,27,6月3日,190,Memphis,20093064,yes
+Tony Snell,Chicago Bulls,20,SF,24,6月7日,200,New Mexico,1535880,yes
+Matthew Dellavedova,Cleveland Cavaliers,8,PG,25,6月4日,198,Saint Mary's,1147276,yes
+Channing Frye,Cleveland Cavaliers,9,PF,33,6月11日,255,Arizona,8193029,yes
+Kyrie Irving,Cleveland Cavaliers,2,PG,24,6月3日,193,Duke,16407501,yes
+LeBron James,Cleveland Cavaliers,23,SF,31,6月8日,250,,22970500,yes
+Richard Jefferson,Cleveland Cavaliers,24,SF,35,6月7日,233,Arizona,947276,yes
+Dahntay Jones,Cleveland Cavaliers,30,SG,35,6月6日,225,Duke,,yes
+James Jones,Cleveland Cavaliers,1,SG,35,6月8日,218,Miami (FL),947276,yes
+Sasha Kaun,Cleveland Cavaliers,14,C,31,6月11日,260,Kansas,1276000,yes
+Kevin Love,Cleveland Cavaliers,0,PF,27,6月10日,251,UCLA,19689000,yes
+Jordan McRae,Cleveland Cavaliers,12,SG,25,6月5日,179,Tennessee,111196,yes
+Timofey Mozgov,Cleveland Cavaliers,20,C,29,7月1日,275,,4950000,yes
+Iman Shumpert,Cleveland Cavaliers,4,SG,25,6月5日,220,Georgia Tech,8988765,yes
+J.R. Smith,Cleveland Cavaliers,5,SG,30,6月6日,225,,5000000,yes
+Tristan Thompson,Cleveland Cavaliers,13,C,25,6月9日,238,Texas,14260870,yes
+Mo Williams,Cleveland Cavaliers,52,PG,33,6月1日,198,Alabama,2100000,yes
+Joel Anthony,Detroit Pistons,50,C,33,6月9日,245,UNLV,2500000,yes
+Aron Baynes,Detroit Pistons,12,C,29,6月10日,260,Washington State,6500000,yes
+Steve Blake,Detroit Pistons,22,PG,36,6月3日,172,Maryland,2170465,yes
+Lorenzo Brown,Detroit Pistons,17,PG,25,6月5日,189,North Carolina State,111444,yes
+Reggie Bullock,Detroit Pistons,25,SF,25,6月7日,205,North Carolina,1252440,yes
+Kentavious Caldwell-Pope,Detroit Pistons,5,SG,23,6月5日,205,Georgia,2891760,yes
+Spencer Dinwiddie,Detroit Pistons,8,PG,23,6月6日,200,Colorado,845059,yes
+Andre Drummond,Detroit Pistons,0,C,22,6月11日,279,Connecticut,3272091,yes
+Tobias Harris,Detroit Pistons,34,SF,23,6月9日,235,Tennessee,16000000,yes
+Darrun Hilliard,Detroit Pistons,6,SF,23,6月6日,205,Villanova,600000,yes
+Reggie Jackson,Detroit Pistons,1,PG,26,6月3日,208,Boston College,13913044,yes
+Stanley Johnson,Detroit Pistons,3,SF,20,6月7日,245,Arizona,2841960,yes
+Jodie Meeks,Detroit Pistons,20,SG,28,6月4日,210,Kentucky,6270000,yes
+Marcus Morris,Detroit Pistons,13,PF,26,6月9日,235,Kansas,5000000,yes
+Anthony Tolliver,Detroit Pistons,43,PF,31,6月8日,240,Creighton,3000000,yes
+Lavoy Allen,Indiana Pacers,5,PF,27,6月9日,255,Temple,4050000,yes
+Rakeem Christmas,Indiana Pacers,25,PF,24,6月9日,250,Syracuse,1007026,yes
+Monta Ellis,Indiana Pacers,11,SG,30,6月3日,185,,10300000,yes
+Paul George,Indiana Pacers,13,SF,26,6月9日,220,Fresno State,17120106,yes
+George Hill,Indiana Pacers,3,PG,30,6月3日,188,IUPUI,8000000,yes
+Jordan Hill,Indiana Pacers,27,C,28,6月10日,235,Arizona,4000000,yes
+Solomon Hill,Indiana Pacers,44,SF,25,6月7日,225,Arizona,1358880,yes
+Ty Lawson,Indiana Pacers,10,PG,28,5月11日,195,North Carolina,211744,yes
+Ian Mahinmi,Indiana Pacers,28,C,29,6月11日,250,,4000000,yes
+C.J. Miles,Indiana Pacers,0,SF,29,6月6日,231,,4394225,yes
+Glenn Robinson III,Indiana Pacers,40,SG,22,6月7日,222,Michigan,1100000,yes
+Rodney Stuckey,Indiana Pacers,2,PG,30,6月5日,205,Eastern Washington,7000000,yes
+Myles Turner,Indiana Pacers,33,PF,20,6月11日,243,Texas,2357760,yes
+Shayne Whittington,Indiana Pacers,42,PF,25,6月11日,250,Western Michigan,845059,yes
+Joe Young,Indiana Pacers,1,PG,23,6月2日,180,Oregon,1007026,yes
+Giannis Antetokounmpo,Milwaukee Bucks,34,SF,21,6月11日,222,,1953960,yes
+Jerryd Bayless,Milwaukee Bucks,19,PG,27,6月3日,200,Arizona,3000000,yes
+Michael Carter-Williams,Milwaukee Bucks,5,PG,24,6月6日,190,Syracuse,2399040,yes
+Jared Cunningham,Milwaukee Bucks,9,SG,25,6月4日,195,Oregon State,947276,yes
+Tyler Ennis,Milwaukee Bucks,11,PG,21,6月3日,194,Syracuse,1662360,yes
+John Henson,Milwaukee Bucks,31,PF,25,6月11日,229,North Carolina,2943221,yes
+Damien Inglis,Milwaukee Bucks,17,SF,21,6月8日,246,,855000,yes
+O.J. Mayo,Milwaukee Bucks,3,SG,28,6月5日,210,USC,8000000,yes
+Khris Middleton,Milwaukee Bucks,22,SG,24,6月8日,234,Texas A&M,14700000,yes
+Greg Monroe,Milwaukee Bucks,15,C,26,6月11日,265,Georgetown,16407500,yes
+Steve Novak,Milwaukee Bucks,6,SF,32,6月10日,225,Marquette,295327,yes
+Johnny O'Bryant III,Milwaukee Bucks,77,PF,23,6月9日,257,LSU,845059,yes
+Jabari Parker,Milwaukee Bucks,12,PF,21,6月8日,250,Duke,5152440,yes
+Miles Plumlee,Milwaukee Bucks,18,C,27,6月11日,249,Duke,2109294,yes
+Greivis Vasquez,Milwaukee Bucks,21,PG,29,6月6日,217,Maryland,6600000,yes
+Rashad Vaughn,Milwaukee Bucks,20,SG,19,6月6日,202,UNLV,1733040,yes
+Justin Anderson,Dallas Mavericks,1,SG,22,6月6日,228,Virginia,1449000,yes
+J.J. Barea,Dallas Mavericks,5,PG,31,6-0,185,Northeastern,4290000,yes
+Jeremy Evans,Dallas Mavericks,21,SF,28,6月9日,200,Western Kentucky,1100602,yes
+Raymond Felton,Dallas Mavericks,2,PG,31,6月1日,205,North Carolina,3950313,yes
+Devin Harris,Dallas Mavericks,34,PG,33,6月3日,185,Wisconsin,4053446,yes
+David Lee,Dallas Mavericks,42,PF,33,6月9日,245,Florida,2085671,yes
+Wesley Matthews,Dallas Mavericks,23,SG,29,6月5日,220,Marquette,16407500,yes
+JaVale McGee,Dallas Mavericks,11,C,28,7-0,270,Nevada,1270964,yes
+Salah Mejri,Dallas Mavericks,50,C,29,7月2日,245,,525093,yes
+Dirk Nowitzki,Dallas Mavericks,41,PF,37,7-0,245,,8333334,yes
+Zaza Pachulia,Dallas Mavericks,27,C,32,6月11日,275,,5200000,yes
+Chandler Parsons,Dallas Mavericks,25,SF,27,6月10日,230,Florida,15361500,yes
+Dwight Powell,Dallas Mavericks,7,PF,24,6月11日,240,Stanford,845059,yes
+Charlie Villanueva,Dallas Mavericks,3,PF,31,6月11日,232,Connecticut,947276,yes
+Deron Williams,Dallas Mavericks,8,PG,31,6月3日,200,Illinois,5378974,yes
+Trevor Ariza,Houston Rockets,1,SF,30,6月8日,215,UCLA,8193030,yes
+Michael Beasley,Houston Rockets,8,SF,27,6月10日,235,Kansas State,306527,yes
+Patrick Beverley,Houston Rockets,2,PG,27,6月1日,185,Arkansas,6486486,yes
+Corey Brewer,Houston Rockets,33,SG,30,6月9日,186,Florida,8229375,yes
+Clint Capela,Houston Rockets,15,PF,22,6月10日,240,,1242720,yes
+Sam Dekker,Houston Rockets,7,SF,22,6月9日,230,Wisconsin,1646400,yes
+Andrew Goudelock,Houston Rockets,0,PG,27,6月3日,200,Charleston,200600,yes
+James Harden,Houston Rockets,13,SG,26,6月5日,220,Arizona State,15756438,yes
+Montrezl Harrell,Houston Rockets,35,PF,22,6月8日,240,Louisville,1000000,yes
+Dwight Howard,Houston Rockets,12,C,30,6月11日,265,,22359364,yes
+Terrence Jones,Houston Rockets,6,PF,24,6月9日,252,Kentucky,2489530,yes
+K.J. McDaniels,Houston Rockets,32,SG,23,6月6日,205,Clemson,3189794,yes
+Donatas Motiejunas,Houston Rockets,20,PF,25,7-0,222,,2288205,yes
+Josh Smith,Houston Rockets,5,C,30,6月9日,225,,947276,yes
+Jason Terry,Houston Rockets,31,SG,38,6月2日,185,Arizona,947276,yes
+Jordan Adams,Memphis Grizzlies,3,SG,21,6月5日,209,UCLA,1404600,yes
+Tony Allen,Memphis Grizzlies,9,SG,34,6月4日,213,Oklahoma State,5158539,yes
+Chris Andersen,Memphis Grizzlies,7,PF,37,6月10日,245,Blinn College,5000000,yes
+Matt Barnes,Memphis Grizzlies,22,SF,36,6月7日,226,UCLA,3542500,yes
+Vince Carter,Memphis Grizzlies,15,SG,39,6月6日,220,North Carolina,4088019,yes
+Mike Conley,Memphis Grizzlies,11,PG,28,6月1日,175,Ohio State,9588426,yes
+Bryce Cotton,Memphis Grizzlies,8,PG,23,6月1日,165,Providence,700902,yes
+Jordan Farmar,Memphis Grizzlies,4,PG,29,6月2日,180,UCLA,,yes
+Marc Gasol,Memphis Grizzlies,33,C,31,7月1日,255,,19688000,yes
+JaMychal Green,Memphis Grizzlies,0,PF,25,6月9日,227,Alabama,845059,yes
+P.J. Hairston,Memphis Grizzlies,19,SF,23,6月6日,230,North Carolina,1201440,yes
+Jarell Martin,Memphis Grizzlies,10,PF,22,6月10日,239,LSU,1230840,yes
+Ray McCallum,Memphis Grizzlies,5,PG,24,6月3日,190,Detroit,,yes
+Xavier Munford,Memphis Grizzlies,14,PG,24,6月3日,180,Rhode Island,,yes
+Zach Randolph,Memphis Grizzlies,50,PF,34,6月9日,260,Michigan State,9638555,yes
+Lance Stephenson,Memphis Grizzlies,1,SF,25,6月5日,230,Cincinnati,9000000,yes
+Alex Stepheson,Memphis Grizzlies,35,PF,28,6月10日,270,USC,,yes
+Brandan Wright,Memphis Grizzlies,34,PF,28,6月10日,210,North Carolina,5464000,yes
+Alexis Ajinca,New Orleans Pelicans,42,C,28,7月2日,248,,4389607,yes
+Ryan Anderson,New Orleans Pelicans,33,PF,28,6月10日,240,California,8500000,yes
+Omer Asik,New Orleans Pelicans,3,C,29,7-0,255,,9213483,yes
+Luke Babbitt,New Orleans Pelicans,8,SF,26,6月9日,225,Nevada,1100602,yes
+Norris Cole,New Orleans Pelicans,30,PG,27,6月2日,175,Cleveland State,3036927,yes
+Dante Cunningham,New Orleans Pelicans,44,PF,29,6月8日,230,Villanova,2850000,yes
+Anthony Davis,New Orleans Pelicans,23,PF,23,6月10日,253,Kentucky,7070730,yes
+Bryce Dejean-Jones,New Orleans Pelicans,31,SG,23,6月6日,203,Iowa State,169883,yes
+Toney Douglas,New Orleans Pelicans,16,PG,30,6月2日,195,Florida State,1164858,yes
+James Ennis,New Orleans Pelicans,4,SF,25,6月7日,210,Long Beach State,845059,yes
+Tyreke Evans,New Orleans Pelicans,1,SG,26,6月6日,220,Memphis,10734586,yes
+Tim Frazier,New Orleans Pelicans,2,PG,25,6月1日,170,Penn State,845059,yes
+Alonzo Gee,New Orleans Pelicans,15,SF,29,6月6日,225,Alabama,1320000,yes
+Eric Gordon,New Orleans Pelicans,10,SG,27,6月4日,215,Indiana,15514031,yes
+Jordan Hamilton,New Orleans Pelicans,25,SG,25,6月7日,220,Texas,1015421,yes
+Jrue Holiday,New Orleans Pelicans,11,PG,25,6月4日,205,UCLA,10595507,yes
+Orlando Johnson,New Orleans Pelicans,0,SG,27,6月5日,220,UC Santa Barbara,55722,yes
+Kendrick Perkins,New Orleans Pelicans,5,C,31,6月10日,270,,947276,yes
+Quincy Pondexter,New Orleans Pelicans,20,SF,28,6月7日,220,Washington,3382023,yes
+LaMarcus Aldridge,San Antonio Spurs,12,PF,30,6月11日,240,Texas,19689000,yes
+Kyle Anderson,San Antonio Spurs,1,SF,22,6月9日,230,UCLA,1142880,yes
+Matt Bonner,San Antonio Spurs,15,C,36,6月10日,235,Florida,947276,yes
+Boris Diaw,San Antonio Spurs,33,C,34,6月8日,250,,7500000,yes
+Tim Duncan,San Antonio Spurs,21,C,40,6月11日,250,Wake Forest,5250000,yes
+Manu Ginobili,San Antonio Spurs,20,SG,38,6月6日,205,,2814000,yes
+Danny Green,San Antonio Spurs,14,SG,28,6月6日,215,North Carolina,10000000,yes
+Kawhi Leonard,San Antonio Spurs,2,SF,24,6月7日,230,San Diego State,16407500,yes
+Boban Marjanovic,San Antonio Spurs,40,C,27,7月3日,290,,1200000,yes
+Kevin Martin,San Antonio Spurs,23,SG,33,6月7日,199,Western Carolina,200600,yes
+Andre Miller,San Antonio Spurs,24,PG,40,6月3日,200,Utah,250750,yes
+Patty Mills,San Antonio Spurs,8,PG,27,6-0,185,Saint Mary's,3578947,yes
+Tony Parker,San Antonio Spurs,9,PG,34,6月2日,185,,13437500,yes
+Jonathon Simmons,San Antonio Spurs,17,SG,26,6月6日,195,Houston,525093,yes
+David West,San Antonio Spurs,30,PF,35,6月9日,250,Xavier,1499187,yes
+Kent Bazemore,Atlanta Hawks,24,SF,26,6月5日,201,Old Dominion,2000000,yes
+Tim Hardaway Jr.,Atlanta Hawks,10,SG,24,6月6日,205,Michigan,1304520,yes
+Kirk Hinrich,Atlanta Hawks,12,SG,35,6月4日,190,Kansas,2854940,yes
+Al Horford,Atlanta Hawks,15,C,30,6月10日,245,Florida,12000000,yes
+Kris Humphries,Atlanta Hawks,43,PF,31,6月9日,235,Minnesota,1000000,yes
+Kyle Korver,Atlanta Hawks,26,SG,35,6月7日,212,Creighton,5746479,yes
+Paul Millsap,Atlanta Hawks,4,PF,31,6月8日,246,Louisiana Tech,18671659,yes
+Mike Muscala,Atlanta Hawks,31,PF,24,6月11日,240,Bucknell,947276,yes
+Lamar Patterson,Atlanta Hawks,13,SG,24,6月5日,225,Pittsburgh,525093,yes
+Dennis Schroder,Atlanta Hawks,17,PG,22,6月1日,172,,1763400,yes
+Mike Scott,Atlanta Hawks,32,PF,27,6月8日,237,Virginia,3333333,yes
+Thabo Sefolosha,Atlanta Hawks,25,SF,32,6月7日,220,,4000000,yes
+Tiago Splitter,Atlanta Hawks,11,C,31,6月11日,245,,9756250,yes
+Walter Tavares,Atlanta Hawks,22,C,24,7月3日,260,,1000000,yes
+Jeff Teague,Atlanta Hawks,0,PG,27,6月2日,186,Wake Forest,8000000,yes
+Nicolas Batum,Charlotte Hornets,5,SG,27,6月8日,200,,13125306,yes
+Troy Daniels,Charlotte Hornets,30,SG,24,6月4日,205,Virginia Commonwealth,947276,yes
+Jorge Gutierrez,Charlotte Hornets,12,PG,27,6月3日,189,California,189455,yes
+Tyler Hansbrough,Charlotte Hornets,50,PF,30,6月9日,250,North Carolina,947276,yes
+Aaron Harrison,Charlotte Hornets,9,SG,21,6月6日,210,Kentucky,525093,yes
+Spencer Hawes,Charlotte Hornets,0,PF,28,7月1日,245,Washington,6110034,yes
+Al Jefferson,Charlotte Hornets,25,C,31,6月10日,289,,13500000,yes
+Frank Kaminsky III,Charlotte Hornets,44,C,23,7-0,240,Wisconsin,2612520,yes
+Michael Kidd-Gilchrist,Charlotte Hornets,14,SF,22,6月7日,232,Kentucky,6331404,yes
+Jeremy Lamb,Charlotte Hornets,3,SG,24,6月5日,185,Connecticut,3034356,yes
+Courtney Lee,Charlotte Hornets,1,SG,30,6月5日,200,Western Kentucky,5675000,yes
+Jeremy Lin,Charlotte Hornets,7,PG,27,6月3日,200,Harvard,2139000,yes
+Kemba Walker,Charlotte Hornets,15,PG,26,6月1日,184,Connecticut,12000000,yes
+Marvin Williams,Charlotte Hornets,2,PF,29,6月9日,237,North Carolina,7000000,yes
+Cody Zeller,Charlotte Hornets,40,C,23,7-0,240,Indiana,4204200,yes
+Chris Bosh,Miami Heat,1,PF,32,6月11日,235,Georgia Tech,22192730,yes
+Luol Deng,Miami Heat,9,SF,31,6月9日,220,Duke,10151612,yes
+Goran Dragic,Miami Heat,7,PG,30,6月3日,190,,14783000,yes
+Gerald Green,Miami Heat,14,SF,30,6月7日,205,,947276,yes
+Udonis Haslem,Miami Heat,40,PF,36,6月8日,235,Florida,2854940,yes
+Joe Johnson,Miami Heat,2,SF,34,6月7日,240,Arkansas,261894,yes
+Tyler Johnson,Miami Heat,8,SG,24,6月4日,186,Fresno State,845059,yes
+Josh McRoberts,Miami Heat,4,PF,29,6月10日,240,Duke,5543725,yes
+Josh Richardson,Miami Heat,0,SG,22,6月6日,200,Tennessee,525093,yes
+Amar'e Stoudemire,Miami Heat,5,PF,33,6月10日,245,,947276,yes
+Dwyane Wade,Miami Heat,3,SG,34,6月4日,220,Marquette,20000000,yes
+Briante Weber,Miami Heat,12,PG,23,6月2日,165,Virginia Commonwealth,,yes
+Hassan Whiteside,Miami Heat,21,C,26,7-0,265,Marshall,981348,yes
+Justise Winslow,Miami Heat,20,SF,20,6月7日,225,Duke,2481720,yes
+Dorell Wright,Miami Heat,11,SF,30,6月9日,205,,,yes
+Dewayne Dedmon,Orlando Magic,3,C,26,7-0,245,USC,947276,yes
+Evan Fournier,Orlando Magic,10,SG,23,6月7日,205,,2288205,yes
+Aaron Gordon,Orlando Magic,0,PF,20,6月9日,220,Arizona,4171680,yes
+Mario Hezonja,Orlando Magic,23,SG,21,6月8日,218,,3741480,yes
+Ersan Ilyasova,Orlando Magic,7,PF,29,6月10日,235,,7900000,yes
+Brandon Jennings,Orlando Magic,55,PG,26,6月1日,169,,8344497,yes
+Devyn Marble,Orlando Magic,11,SF,23,6月6日,200,Iowa,845059,yes
+Shabazz Napier,Orlando Magic,13,PG,24,6月1日,175,Connecticut,1294440,yes
+Andrew Nicholson,Orlando Magic,44,PF,26,6月9日,250,St. Bonaventure,2380593,yes
+Victor Oladipo,Orlando Magic,5,SG,24,6月4日,210,Indiana,5192520,yes
+Elfrid Payton,Orlando Magic,4,PG,22,6月4日,185,Louisiana-Lafayette,2505720,yes
+Jason Smith,Orlando Magic,14,PF,30,7-0,240,Colorado State,4300000,yes
+Nikola Vucevic,Orlando Magic,9,C,25,7-0,260,USC,11250000,yes
+C.J. Watson,Orlando Magic,32,PG,32,6月2日,175,Tennessee,5000000,yes
+Alan Anderson,Washington Wizards,6,SG,33,6月6日,220,Michigan State,4000000,yes
+Bradley Beal,Washington Wizards,3,SG,22,6月5日,207,Florida,5694674,yes
+Jared Dudley,Washington Wizards,1,SF,30,6月7日,225,Boston College,4375000,yes
+Jarell Eddie,Washington Wizards,8,SG,24,6月7日,218,Virginia Tech,561716,yes
+Drew Gooden,Washington Wizards,90,PF,34,6月10日,250,Kansas,3300000,yes
+Marcin Gortat,Washington Wizards,13,C,32,6月11日,240,,11217391,yes
+JJ Hickson,Washington Wizards,21,C,27,6月9日,242,North Carolina State,273038,yes
+Nene Hilario,Washington Wizards,42,C,33,6月11日,250,,13000000,yes
+Markieff Morris,Washington Wizards,5,PF,26,6月10日,245,Kansas,8000000,yes
+Kelly Oubre Jr.,Washington Wizards,12,SF,20,6月7日,205,Kansas,1920240,yes
+Otto Porter Jr.,Washington Wizards,22,SF,23,6月8日,198,Georgetown,4662960,yes
+Ramon Sessions,Washington Wizards,7,PG,30,6月3日,190,Nevada,2170465,yes
+Garrett Temple,Washington Wizards,17,SG,30,6月6日,195,LSU,1100602,yes
+Marcus Thornton,Washington Wizards,15,SF,29,6月4日,205,LSU,200600,yes
+John Wall,Washington Wizards,2,PG,25,6月4日,195,Kentucky,15851950,yes
+Darrell Arthur,Denver Nuggets,0,PF,28,6月9日,235,Kansas,2814000,yes
+D.J. Augustin,Denver Nuggets,12,PG,28,6-0,183,Texas,3000000,yes
+Will Barton,Denver Nuggets,5,SF,25,6月6日,175,Memphis,3533333,yes
+Wilson Chandler,Denver Nuggets,21,SF,29,6月8日,225,DePaul,10449438,yes
+Kenneth Faried,Denver Nuggets,35,PF,26,6月8日,228,Morehead State,11235955,yes
+Danilo Gallinari,Denver Nuggets,8,SF,27,6月10日,225,,14000000,yes
+Gary Harris,Denver Nuggets,14,SG,21,6月4日,210,Michigan State,1584480,yes
+Nikola Jokic,Denver Nuggets,15,C,21,6月10日,250,,1300000,yes
+Joffrey Lauvergne,Denver Nuggets,77,C,24,6月11日,220,,1709719,yes
+Mike Miller,Denver Nuggets,3,SG,36,6月8日,218,Florida,947276,yes
+Emmanuel Mudiay,Denver Nuggets,0,PG,20,6月5日,200,,3102240,yes
+Jameer Nelson,Denver Nuggets,1,PG,34,6-0,190,Saint Joseph's,4345000,yes
+Jusuf Nurkic,Denver Nuggets,23,C,21,7-0,280,,1842000,yes
+JaKarr Sampson,Denver Nuggets,9,SG,23,6月9日,214,St. John's,258489,yes
+Axel Toupane,Denver Nuggets,6,SG,23,6月7日,210,,,yes
+Nemanja Bjelica,Minnesota Timberwolves,88,PF,28,6月10日,240,,3950001,yes
+Gorgui Dieng,Minnesota Timberwolves,5,C,26,6月11日,241,Louisville,1474440,yes
+Kevin Garnett,Minnesota Timberwolves,21,PF,40,6月11日,240,,8500000,yes
+Tyus Jones,Minnesota Timberwolves,1,PG,20,6月2日,195,Duke,1282080,yes
+Zach LaVine,Minnesota Timberwolves,8,PG,21,6月5日,189,UCLA,2148360,yes
+Shabazz Muhammad,Minnesota Timberwolves,15,SF,23,6月6日,223,UCLA,2056920,yes
+Adreian Payne,Minnesota Timberwolves,33,PF,25,6月10日,237,Michigan State,1938840,yes
+Nikola Pekovic,Minnesota Timberwolves,14,C,30,6月11日,307,,12100000,yes
+Tayshaun Prince,Minnesota Timberwolves,12,SF,36,6月9日,212,Kentucky,947276,yes
+Ricky Rubio,Minnesota Timberwolves,9,PG,25,6月4日,194,,12700000,yes
+Damjan Rudez,Minnesota Timberwolves,10,SF,29,6月9日,230,,1149500,yes
+Greg Smith,Minnesota Timberwolves,4,PF,25,6月10日,250,Fresno State,,yes
+Karl-Anthony Towns,Minnesota Timberwolves,32,C,20,7-0,244,Kentucky,5703600,yes
+Andrew Wiggins,Minnesota Timberwolves,22,SG,21,6月8日,199,Kansas,5758680,yes
+Steven Adams,Oklahoma City Thunder,12,C,22,7-0,255,Pittsburgh,2279040,yes
+Nick Collison,Oklahoma City Thunder,4,PF,35,6月10日,255,Kansas,3750000,yes
+Kevin Durant,Oklahoma City Thunder,35,SF,27,6月9日,240,Texas,20158622,yes
+Randy Foye,Oklahoma City Thunder,6,SG,32,6月4日,213,Villanova,3135000,yes
+Josh Huestis,Oklahoma City Thunder,34,SF,24,6月7日,230,Stanford,1140240,yes
+Serge Ibaka,Oklahoma City Thunder,9,PF,26,6月10日,245,,12250000,yes
+Enes Kanter,Oklahoma City Thunder,11,C,24,6月11日,245,Kentucky,16407500,yes
+Mitch McGary,Oklahoma City Thunder,33,PF,24,6月10日,255,Michigan,1463040,yes
+Nazr Mohammed,Oklahoma City Thunder,13,C,38,6月10日,250,Kentucky,222888,yes
+Anthony Morrow,Oklahoma City Thunder,2,SG,30,6月5日,210,Georgia Tech,3344000,yes
+Cameron Payne,Oklahoma City Thunder,22,PG,21,6月3日,185,Murray State,2021520,yes
+Andre Roberson,Oklahoma City Thunder,21,SG,24,6月7日,210,Colorado,1210800,yes
+Kyle Singler,Oklahoma City Thunder,5,SF,28,6月8日,228,Duke,4500000,yes
+Dion Waiters,Oklahoma City Thunder,3,SG,24,6月4日,220,Syracuse,5138430,yes
+Russell Westbrook,Oklahoma City Thunder,0,PG,27,6月3日,200,UCLA,16744218,yes
+Cliff Alexander,Portland Trail Blazers,34,PF,20,6月8日,240,Kansas,525093,yes
+Al-Farouq Aminu,Portland Trail Blazers,8,SF,25,6月9日,215,Wake Forest,8042895,yes
+Pat Connaughton,Portland Trail Blazers,5,SG,23,6月5日,206,Notre Dame,625093,yes
+Allen Crabbe,Portland Trail Blazers,23,SG,24,6月6日,210,California,947276,yes
+Ed Davis,Portland Trail Blazers,17,C,27,6月10日,240,North Carolina,6980802,yes
+Maurice Harkless,Portland Trail Blazers,4,SF,23,6月9日,215,St. John's,2894059,yes
+Gerald Henderson,Portland Trail Blazers,9,SG,28,6月5日,215,Duke,6000000,yes
+Chris Kaman,Portland Trail Blazers,35,C,34,7-0,265,Central Michigan,5016000,yes
+Meyers Leonard,Portland Trail Blazers,11,PF,24,7月1日,245,Illinois,3075880,yes
+Damian Lillard,Portland Trail Blazers,0,PG,25,6月3日,195,Weber State,4236287,yes
+C.J. McCollum,Portland Trail Blazers,3,SG,24,6月4日,200,Lehigh,2525160,yes
+Luis Montero,Portland Trail Blazers,44,SG,23,6月7日,185,Westchester CC,525093,yes
+Mason Plumlee,Portland Trail Blazers,24,C,26,6月11日,235,Duke,1415520,yes
+Brian Roberts,Portland Trail Blazers,2,PG,30,6月1日,173,Dayton,2854940,yes
+Noah Vonleh,Portland Trail Blazers,21,PF,20,6月9日,240,Indiana,2637720,yes
+Trevor Booker,Utah Jazz,33,PF,28,6月8日,228,Clemson,4775000,yes
+Trey Burke,Utah Jazz,3,PG,23,6月1日,191,Michigan,2658240,yes
+Alec Burks,Utah Jazz,10,SG,24,6月6日,214,Colorado,9463484,yes
+Dante Exum,Utah Jazz,11,PG,20,6月6日,190,,3777720,yes
+Derrick Favors,Utah Jazz,15,PF,24,6月10日,265,Georgia Tech,12000000,yes
+Rudy Gobert,Utah Jazz,27,C,23,7月1日,245,,1175880,yes
+Gordon Hayward,Utah Jazz,20,SF,26,6月8日,226,Butler,15409570,yes
+Rodney Hood,Utah Jazz,5,SG,23,6月8日,206,Duke,1348440,yes
+Joe Ingles,Utah Jazz,2,SF,28,6月8日,226,,2050000,yes
+Chris Johnson,Utah Jazz,23,SF,26,6月6日,206,Dayton,981348,yes
+Trey Lyles,Utah Jazz,41,PF,20,6月10日,234,Kentucky,2239800,yes
+Shelvin Mack,Utah Jazz,8,PG,26,6月3日,203,Butler,2433333,yes
+Raul Neto,Utah Jazz,25,PG,24,6月1日,179,,900000,yes
+Tibor Pleiss,Utah Jazz,21,C,26,7月3日,256,,2900000,yes
+Jeff Withey,Utah Jazz,24,C,26,7-0,231,Kansas,947276,yes
